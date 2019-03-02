@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+		Musics
+	</title>
+</head>
+<body>
+<hr width=”50%” size=”5¨ align=”center” color=”blue”>
+	 <table align="center" border = "3">
+
+        
+          <thead>
+            <tr> 
+               <th><p>&emsp;<a href="index.htm">HOMEPAGE</a>&emsp;</p></th>
+               <th><p>&emsp;<a href="film.htm">FILMS</a>&emsp;</p></th>
+               <th>&emsp;<font face="Times New Roman"size="5" color="red">BOOKS</font>&emsp;</th>
+               <th><p>&emsp;<a href="musics.html">MUSICS</a>&emsp;</p></th>
+               <th><p>&emsp;<a href="USEFULLINKS.html">Useful Lynks</a>&emsp;</p></th>
+               <th><p>&emsp;<a href="ContactMe.html">Contact Me</a>&emsp;</p></th>
+               <th><p>&emsp;<a href="Registration.html">REGISTER</a>&emsp;</p></th>
+            </tr>
+         </thead>
+
+        
+      </table>
+
+      <hr width=”50%” size=”5¨ align=”center” color=”blue”>
+      
+      <h3 align="center" style="font-family:fantasy;" size"3"><---My Favorite Books---></h3>
+
+       <img src="fi.jpg" width="420" height="450"></div><img src="ci.jpg" width="450" height="450"></div><img src="pi.jpg" width="420" height="450">
+       <h2 align="center"><br>You can find your favorite books here.</h2>
+     <div align="center">
+      <a href="https://www.netflix.com/tr/">D&R</a>
+      </div>
+     <h3 align="center"><br>You can buy my favorite books here.<br></h3>
+      <div align="center">
+      <a href="https://www.dr.com.tr/Kitap/Fi-1-Kitap/Edebiyat/Roman/Turkiye-Roman/urunno=0001765697001?gclid=CjwKCAiA8OjjBRB4EiwAMZe6y-98jH6HY_S_TamKRePxxkSZOakXOnQYYsK4oFfm0Mqu0HzAwR0X9BoCpugQAvD_BwE">FÝ</a>
+      <a href="https://www.kitapyurdu.com/kitap/ci/344733.html?gclid=CjwKCAiA8OjjBRB4EiwAMZe6y39TPAybHcIXqriN2v8C0HRGx83lhIDMZFPHrOCgEQFddZfBGdmDOxoCPzEQAvD_BwE">ÇÝ</a>
+      <a href="https://www.hepsiburada.com/pi-azra-kohen-p-KDESTEK13959?magaza=merkezkitabevi&wt_gl=cpc.nelk.kitap.pla&gclid=CjwKCAiA8OjjBRB4EiwAMZe6y8y2Htb0wEtcLFFmQD4odKdYlN-sMLX_Vq2LTJjhkGykir8Rwyt-HRoCVQ8QAvD_BwE">PÝ</a>
+
+      </div>
+
+</body>
+</html>
